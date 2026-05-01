@@ -4,6 +4,7 @@ CS Engineering student at SRM Institute of Science and Technology (2024–2028).
 These days I'm working with SQL and Tableau, turning messy data into something a non-technical person can actually read without squinting.
 
 🛠️ Tech Stack
+
 Data Analysis
 SQL (SQL Server / PostgreSQL) Excel Python Pandas NumPy
 Visualization
@@ -13,7 +14,8 @@ Linear Regression Random Forest Scikit-learn
 
 
 Tools
-Git GitHub Jupyter Notebooks
+
+Git ,GitHub ,Jupyter Notebooks
 
 
 📌 What I'm working on
