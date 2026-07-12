@@ -1,18 +1,10 @@
-## Hey, I am Hanishka Kela 
+# Hey, I am Hanishka Kela
 
-CS Engineering student at SRM Institute of Science and Technology (2024–2028). I got into data the annoying way — pulling datasets apart to figure out why they were broken, then obsessing over the cleanup. That's still mostly what I do.
-These days I'm working with SQL and Tableau, turning messy data into something a non-technical person can actually read without squinting.
+CS Engineering student at SRM Institute of Science and Technology (2024–2028), focused on backend systems. I got into engineering through data — pulling datasets apart to figure out why they were broken — and that same instinct now goes into figuring out how backend systems behave under load, not just what they return on the happy path.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Data Analysis
-SQL (SQL Server / PostgreSQL) Excel Python Pandas NumPy
-Visualization
-Tableau Matplotlib Seaborn
-Machine Learning
-Linear Regression Random Forest Scikit-learn
+**Backend:** Python, FastAPI, SQLAlchemy (async), MySQL, PostgreSQL, Alembic, JWT
+**Also worked with:** SQL, Pandas, Tableau, Scikit-learn — background from earlier data analytics projects
 
-
-Tools
-
-Git ,GitHub ,Jupyter Notebooks
+**Tools:** Git, GitHub, Jupyter Notebooks
