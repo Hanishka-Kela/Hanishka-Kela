@@ -16,12 +16,3 @@ Linear Regression Random Forest Scikit-learn
 Tools
 
 Git ,GitHub ,Jupyter Notebooks
-
-
-📌 What I'm working on
-
-Sharpening SQL for real-world data wrangling
-Building dashboards that don't require a manual to understand
-Getting better at predictive modeling, one broken dataset at a time
-
-
