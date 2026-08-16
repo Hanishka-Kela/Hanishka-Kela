@@ -4,7 +4,7 @@ CS Engineering student at SRM Institute of Science and Technology (2024–2028),
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python, FastAPI, SQLAlchemy (async), MySQL, PostgreSQL, Alembic, JWT
+**Backend:** Python, FastAPI, SQLAlchemy (async), MySQL, PostgreSQL, JWT
 **Also worked with:** SQL, Pandas, Tableau, Scikit-learn — background from earlier data analytics projects
 
 **Tools:** Git, GitHub, Jupyter Notebooks
