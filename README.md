@@ -1,11 +1,19 @@
-# Hey, I am Hanishka Kela
+# Hey, I'm Hanishka Kela
 
-CS Engineering student at SRM Institute of Science and Technology (2024–2028), focused on backend systems. I got into engineering through data — pulling datasets apart to figure out why they were broken — and that same instinct now goes into figuring out how backend systems behave under load, not just what they return on the happy path.
+I like figuring out how things work, especially when they don't work the way they're supposed to.
+
+What started as curiosity about messy datasets gradually turned into an interest in software engineering — designing APIs, working with databases, and understanding what happens beyond the happy path. I'm more interested in why a system behaves a certain way than simply getting it to work once.
+
+I enjoy working through unfamiliar problems, exploring different approaches, and building software that's reliable, maintainable, and worth improving.
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python, FastAPI, SQLAlchemy (async), MySQL, PostgreSQL, JWT
+**Languages:** Python, Java, JavaScript, SQL
 
-**Also worked with:** SQL, Pandas, Tableau, Scikit-learn — background from earlier data analytics projects
+**Backend:** FastAPI, SQLAlchemy, REST APIs, JWT Authentication
 
-**Tools:** Git, GitHub, Jupyter Notebooks
+**Databases:** PostgreSQL, MySQL, SQLite, Redis
+
+**Tools:** Git, GitHub, Docker, Postman, Jupyter Notebook
+
+**Also worked with:** Pandas, Scikit-learn, Tableau
